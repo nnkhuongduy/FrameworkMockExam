@@ -1,0 +1,9 @@
+@{
+  ViewData["Title"] = "Thêm điểm cách ly";
+}
+<form action="/DiemCachLy/AddDiemCachLy" method="POST">
+  <label for="MaDiemCachLy">Mã điểm cách ly</label><input name="MaDiemCachLy" key="MaDiemCachLy" type="text" />
+  <label for="TenDiemCachLy">Tên điểm cách ly</label><input name="TenDiemCachLy" key="TenDiemCachLy" type="text" />
+  <label for="DiaChi">Địa chỉ</label><input name="DiaChi" key="DiaChi" type="text" />
+  <input type="submit" value="Thêm" />
+</form>

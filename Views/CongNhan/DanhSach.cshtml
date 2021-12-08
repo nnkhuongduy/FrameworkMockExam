@@ -1,0 +1,31 @@
+@model IEnumerable<Covid.Models.CongNhanModel>
+
+@{
+  ViewData["Title"] = "Danh sách công nhân";
+}
+
+<table border="1">
+  <tr>
+    <th>Mã công nhân</th>
+    <th>Tên công nhân</th>
+    <th>Chức năng</th>
+  </tr>
+
+  @foreach (var item in Model)
+  {
+    <tr>
+      <td>
+        @item.MaCongNhan
+      </td>
+
+      <td>
+        @item.TenCongNhan
+      </td>
+      <td>
+        <a href="XoaCongNhan?Id=@item.MaCongNhan">Delete</a>
+        <a href="XemCongNhan?Id=@item.MaCongNhan">View</a>
+      </td>
+
+    </tr>
+  }
+</table>

@@ -1,0 +1,16 @@
+@model IEnumerable<Covid.Models.DiemCachLyModel>
+
+@{
+  ViewData["Title"] = "Chọn điểm cách ly";
+}
+
+<form action="/CongNhan/DanhSach" method="POST">
+  <label>Tên điểm cách ly</label>
+  <select name="MaDiemCachLy" id="MaDiemCachLy">
+    @foreach (var item in Model)
+    {
+        <option value="@item.MaDiemCachLy">@item.TenDiemCachLy</option>
+    }
+  </select>
+  <input type="submit" value="Liệt kê" />
+</form>

@@ -1,0 +1,76 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Covid
+build_property.RootNamespace = Covid
+build_property.ProjectDir = C:\Users\Duy\Desktop\Covid\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Duy\Desktop\Covid
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Duy/Desktop/Covid/Views/CongNhan/ChonDiemCachLy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZ05oYW5cQ2hvbkRpZW1DYWNoTHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Duy/Desktop/Covid/Views/CongNhan/DanhSach.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZ05oYW5cRGFuaFNhY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Duy/Desktop/Covid/Views/CongNhan/XemCongNhan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZ05oYW5cWGVtQ29uZ05oYW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Duy/Desktop/Covid/Views/CongNhan/XoaCongNhan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZ05oYW5cWG9hQ29uZ05oYW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Duy/Desktop/Covid/Views/DiemCachLy/AddDiemCachLy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGllbUNhY2hMeVxBZGREaWVtQ2FjaEx5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Duy/Desktop/Covid/Views/DiemCachLy/ThemDiemCachLy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGllbUNhY2hMeVxUaGVtRGllbUNhY2hMeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Duy/Desktop/Covid/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Duy/Desktop/Covid/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Duy/Desktop/Covid/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Duy/Desktop/Covid/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Duy/Desktop/Covid/Views/TrieuChung/ChonTrieuChung.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpZXVDaHVuZ1xDaG9uVHJpZXVDaHVuZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Duy/Desktop/Covid/Views/TrieuChung/LietKeCongNhan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpZXVDaHVuZ1xMaWV0S2VDb25nTmhhbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Duy/Desktop/Covid/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Duy/Desktop/Covid/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Duy/Desktop/Covid/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-q6mw8zfomp
